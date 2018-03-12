@@ -1,0 +1,20 @@
+CharlesStory
+2272488
+Assignment 3
+
+!!!REMEMBER TO GET TO E: cd / then cd mnt finds E on Ubuntu!!!
+tar -czvf desiredname.tgz ActualFileName
+tar xzvf FileName (extracts the file and reads in files)
+
+http://www.cplusplus.com/reference/string/string/getline/
+//Helps with Getline()
+
+This is also bad because it's a beginner place but.. Delimiter HElps
+http://www.cplusplus.com/forum/beginner/91389/
+
+I also had some theory crafting help from Raul on how to exit while loop. Helped
+Solve the "exit after one error" trouble I had.
+
+I copied most of the general stack layout from our in-class GenStack (hence the name)
+but the book had a really nice section of psudo code on constructor destructor
+https://o6ucs.files.wordpress.com/2012/11/data-structures-and-algorithms-in-c.pdf
