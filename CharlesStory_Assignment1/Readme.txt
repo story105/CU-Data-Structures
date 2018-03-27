@@ -3,6 +3,7 @@ CharlesStory
 story105@mail.chapman.edu
 Assignment 1
 
+Asked to analyze a text file that has numerous strings with ACTG chars (upper or lower case).
 A couple things I did not understand, such as reading/writing to a file in cpp, random number generation syntax,
 and, of course, what a guassianDistribution was. I'm in physics 108 right now and we know what a gaussian substance is,
 but not what its distribution is. I thought it had only to do with charges.
