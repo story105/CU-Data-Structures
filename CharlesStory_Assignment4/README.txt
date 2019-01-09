@@ -4,8 +4,6 @@ ID: 2272488
 story105@mail.chapman.edu
 CPSC 350-02    Assignment4
 
-I used probably a good amount of stack Overflow to help us. I'll try nd remember all the sites
-
 https://stackoverflow.com/questions/14067547/how-switch-case-statement-implemented-or-works-internally
 http://www.cplusplus.com/reference/algorithm/sort/ //v hellpful for algorithms to place students and idle time
 https://stackoverflow.com/questions/49641801/how-to-make-a-generic-virtual-class-c (bc u said anything we did have our inclass just needed refresher)
